@@ -53,15 +53,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir2811&hide_progress=true)
 
 
-<!--- trophy (start) -->
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=84%
-            src="https://github-profile-trophy.vercel.app/?username=ahmedsamir&theme=onestar"
-            alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 </p>
