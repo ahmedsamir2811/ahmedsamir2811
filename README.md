@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ahmed Samir</h1></summary>
   </ul>
 </div>
 
@@ -26,19 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Javascript, React, Redux , Redux Toolkit , Angular**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Node.js , Express , Mongodb**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in web development. so I am learning everything related to **Front-end , Back-end**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **javascript, react, redux, angular**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 📫 Feel free to reach me out **ahmed.s.gholmish@gmail.com**
 <!--Intro end-->
 
 
@@ -85,9 +81,10 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img
+            src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,express,github,html,js,mongodb,nodejs,postman,py,react,redux,tailwind,angular,ts,vscode,photoshop,illustrator,xd&perline=14" />
+    </a>
 </p>
 
 
