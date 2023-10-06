@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Samir! 👋
+# Hi there, I'm Ahmed Samir! 👋
 
 ## About Me
 
@@ -26,5 +26,9 @@ Passionate Front-End Developer | Crafting Immersive Web Experiences with JavaScr
 ## My GitHub Stats
 
 [![Ahmed Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+
+## Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
 
 Feel free to connect with me through email or LinkedIn. I'm always open to exciting new projects and collaborations!
