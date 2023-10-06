@@ -52,11 +52,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir2811&hide_progress=true)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 </p>
 <!--- stats (end) -->
 
