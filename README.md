@@ -39,9 +39,24 @@
 - 📫 Feel free to reach me out **ahmed.s.gholmish@gmail.com**
 <!--Intro end-->
 
+<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ahmedsamir2811&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ahmedsamir2811&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir2811&show_icons=true" />
+  </picture>
 
-
-
+<!--- stats & Trophy (start) -->
+<p align="center">
+    <!--- stats (start) -->
+<table align="center">
+    <tr border="none">
+        <td width="50%" align="center">
 
             <picture>
                 <source
@@ -55,14 +70,18 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir2811&show_icons=true" />
               </picture>
             <br></br>
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark" alt="GitHub Streak" /></a>
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir2811&theme=dark&hide_border=false" />
+        </td>
 
-
+        <td width="50%" align="center">
 
             <img align="center"
                 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmedsamir2811&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 
-  
+        </td>
+    </tr>
+</table>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
