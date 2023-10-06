@@ -48,11 +48,14 @@
     <tr border="none">
         <td width="50%" align="center">
 
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=Ahmedsamir28&theme=dark&show_icons=true&count_private=true" />
+            <div align="center">
+                [![Ahmed Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+            </div>>
             <br></br>
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedsamir28&theme=dark&hide_border=false" />
+            <div>
+                [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+
+            </div>>
         </td>
 
         <td width="50%" align="center">
