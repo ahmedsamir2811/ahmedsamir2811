@@ -1,32 +1,119 @@
-# Hi there, I'm Ahmed Samir! 👋
 
-## About Me
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Passionate Front-End Developer | Crafting Immersive Web Experiences with JavaScript, React, and Angular | Bridging Frontend and Backend with Node.js and MongoDB
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ahmed Samir</h1></summary>
+  </ul>
+</div>
 
-## Languages and Tools
 
-### Programming Languages
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-### Frontend
-![React](https://img.icons8.com/color/48/000000/react.png) React | ![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux | ![Redux Toolkit](https://img.icons8.com/color/48/000000/redux.png) Redux Toolkit | ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular | ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
 
-### Backend
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js | ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-### Version Control
-![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
-### Design
-![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Photoshop | ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png) Illustrator | ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png) XD
+<!--Intro start-->
+- 🔭 I’m currently working on **Javascript, React, Redux , Redux Toolkit , Angular**
 
-## My GitHub Stats
+- 🌱 I’m currently learning **Node.js , Express , Mongodb**
 
-[![Ahmed Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+- ☁️ I've keen interest in web development. so I am learning everything related to  **Front-end , Back-end**
 
-## Most Used Languages
+- 💬 Ask me about **javascript, react, redux, angular**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+- 📫 Feel free to reach me out **ahmed.s.gholmish@gmail.com**
+<!--Intro end-->
 
-Feel free to connect with me through email or LinkedIn. I'm always open to exciting new projects and collaborations!
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,express,github,html,js,mongodb,nodejs,postman,py,react,redux,tailwind,angular,ts,vscode,photoshop,illustrator,xd&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+
+<!-- <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div> -->
+
+<!--icons and links-->
+
+<!-- <p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p> -->
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
