@@ -51,6 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir2811&show_icons=true" />
   </picture>
 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedsamir2811&theme=dark" alt="GitHub Streak" /></a>
 <!--- stats & Trophy (start) -->
 <p align="center">
     <!--- stats (start) -->
