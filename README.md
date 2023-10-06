@@ -52,6 +52,8 @@
   </picture>
 
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedsamir2811&theme=dark" alt="GitHub Streak" /></a>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir2811&hide_progress=true)
 <!--- stats & Trophy (start) -->
 <p align="center">
     <!--- stats (start) -->
