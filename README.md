@@ -26,13 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Javascript, React, Redux , Redux Toolkit , Angular**
+- 🔭 I’m currently working on **Javascript, React, Redux , Redux Toolkit**
 
 - 🌱 I’m currently learning **Node.js , Express , Mongodb**
 
 - ☁️ I've keen interest in web development. so I am learning everything related to **Front-end , Back-end**
 
-- 💬 Ask me about **javascript, react, redux, angular**
+- 💬 Ask me about **javascript, react, redux**
 
 - 📫 Feel free to reach me out **ahmed.s.gholmish@gmail.com**
 <!--Intro end-->
